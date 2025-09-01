@@ -32,7 +32,7 @@ A full-stack stock management application built with Laravel 12 (Backend) and Vu
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/mehulkoradiya/laravel-vue-prectical.git
 cd laravel-vue-prectical
 ```
 
